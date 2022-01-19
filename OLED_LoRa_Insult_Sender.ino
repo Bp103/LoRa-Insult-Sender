@@ -1,4 +1,7 @@
 /*
+	Edited to include a insult generator by Bp103
+	also changed the structure a bit.
+	
   This is a simple example show the Heltec.LoRa sended data in OLED.
 
   The onboard OLED display is SSD1306 driver and I2C interface. In order to make the
